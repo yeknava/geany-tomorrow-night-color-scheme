@@ -3,4 +3,4 @@ geany-tomorrow-night-color-scheme
 
 Installation:
 
-Copy "Tomorrow Night.conf" file to: "usr/share/geany/colorschemes"
+Copy "Tomorrow Night.conf" file to: "~/.config/geany/colorschemes"
